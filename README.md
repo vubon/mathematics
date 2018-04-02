@@ -2,10 +2,10 @@
 
 ## Basic Math
 
-##Algebra 
+## Algebra 
 #### Arithmetic Sequence Formula
 
-##Calculus
+## Calculus
 
 
 
